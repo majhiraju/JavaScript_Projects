@@ -1,0 +1,14 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+}
+
+.task button {
+    padding: 8px;
+    width: 20%;
+    margin-right: 50%;
+    border: none;
+    background-color: #8537ce;
+    border-radius: 6px;
+    color: #fff;
+}
